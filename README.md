@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # tlisweb
 
-> Tlis web
+> Tlis web prototype on Vue.js
 
 ## Build Setup
 
